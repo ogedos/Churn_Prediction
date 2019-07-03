@@ -1,5 +1,5 @@
 ## Loan_prediction
-In this project, i will be working on a calls service dataset with the aim of predicting factors that influence a customer's churn 
+In this project, i worked on a calls service dataset with the aim of predicting factors that influence a customer's churn 
 The features are; 
 * intPlan- International plan 
 * vmailPlan-Voicemail plan
